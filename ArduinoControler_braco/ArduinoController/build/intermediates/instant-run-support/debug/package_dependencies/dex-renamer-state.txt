@@ -1,0 +1,7 @@
+#Wed Oct 09 00:50:14 BRT 2019
+base.0=/Users/paulinho/AndroidStudioProjects/ArduinoControler_braco/ArduinoController/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v4_d943449c7fbefd8d69f851dd9295dad4cba249ce
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/paulinho/AndroidStudioProjects/ArduinoControler_braco/ArduinoController/build/intermediates/transforms/dex/debug/folders/1000/10/classes_841435d0ebe202968aed9510f931f0d4b4b7056e/classes.dex
+base.1=/Users/paulinho/AndroidStudioProjects/ArduinoControler_braco/ArduinoController/build/intermediates/transforms/dex/debug/folders/1000/10/classes_841435d0ebe202968aed9510f931f0d4b4b7056e
+file.0=/Users/paulinho/AndroidStudioProjects/ArduinoControler_braco/ArduinoController/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v4_d943449c7fbefd8d69f851dd9295dad4cba249ce/classes.dex

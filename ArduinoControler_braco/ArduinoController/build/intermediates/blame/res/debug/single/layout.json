@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/paulinho/AndroidStudioProjects/ArduinoControler_braco/ArduinoController/build/intermediates/res/merged/debug/layout/activity_arduino_controller.xml",
+        "source": "/Users/paulinho/AndroidStudioProjects/ArduinoControler_braco/ArduinoController/src/main/res/layout/activity_arduino_controller.xml"
+    },
+    {
+        "merged": "/Users/paulosantos/Desktop/Android 2/ArduinoController/build/intermediates/res/merged/debug/layout/activity_arduino_controller.xml",
+        "source": "/Users/paulosantos/Desktop/Android 2/ArduinoController/src/main/res/layout/activity_arduino_controller.xml"
+    },
+    {
+        "merged": "/Users/paulosantos/AndroidStudioProjects/ArduinoControler_braco/ArduinoController/build/intermediates/res/merged/debug/layout/activity_arduino_controller.xml",
+        "source": "/Users/paulosantos/AndroidStudioProjects/ArduinoControler_braco/ArduinoController/src/main/res/layout/activity_arduino_controller.xml"
+    },
+    {
+        "merged": "/Users/paulinho/AndroidStudioProjects/ArduinoControler_braco/ArduinoController/build/intermediates/res/merged/debug/layout/device_name.xml",
+        "source": "/Users/paulinho/.android/build-cache/66ea69ad4891ecd53c0c9a8c74b651b21efcdd7b/output/res/layout/device_name.xml"
+    },
+    {
+        "merged": "/Users/paulosantos/AndroidStudioProjects/ArduinoControler_braco/ArduinoController/build/intermediates/res/merged/debug/layout/device_name.xml",
+        "source": "/Users/paulosantos/.android/build-cache/7ae52dc3e473c5a6f68f9576339a857d5a04b2e3/output/res/layout/device_name.xml"
+    },
+    {
+        "merged": "/Users/paulosantos/Desktop/Android 2/ArduinoController/build/intermediates/res/merged/debug/layout/device_name.xml",
+        "source": "/Users/paulosantos/.android/build-cache/7ae52dc3e473c5a6f68f9576339a857d5a04b2e3/output/res/layout/device_name.xml"
+    },
+    {
+        "merged": "/Users/paulinho/AndroidStudioProjects/ArduinoControler_braco/ArduinoController/build/intermediates/res/merged/debug/layout/device_list.xml",
+        "source": "/Users/paulinho/.android/build-cache/66ea69ad4891ecd53c0c9a8c74b651b21efcdd7b/output/res/layout/device_list.xml"
+    },
+    {
+        "merged": "/Users/paulosantos/Desktop/Android 2/ArduinoController/build/intermediates/res/merged/debug/layout/device_list.xml",
+        "source": "/Users/paulosantos/.android/build-cache/7ae52dc3e473c5a6f68f9576339a857d5a04b2e3/output/res/layout/device_list.xml"
+    },
+    {
+        "merged": "/Users/paulosantos/AndroidStudioProjects/ArduinoControler_braco/ArduinoController/build/intermediates/res/merged/debug/layout/device_list.xml",
+        "source": "/Users/paulosantos/.android/build-cache/7ae52dc3e473c5a6f68f9576339a857d5a04b2e3/output/res/layout/device_list.xml"
+    }
+]

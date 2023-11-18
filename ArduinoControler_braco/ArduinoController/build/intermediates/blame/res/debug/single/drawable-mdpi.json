@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/paulosantos/Desktop/Android 2/ArduinoController/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/paulosantos/Desktop/Android 2/ArduinoController/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/paulosantos/AndroidStudioProjects/ArduinoControler_braco/ArduinoController/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/paulosantos/AndroidStudioProjects/ArduinoControler_braco/ArduinoController/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/paulinho/AndroidStudioProjects/ArduinoControler_braco/ArduinoController/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/paulinho/AndroidStudioProjects/ArduinoControler_braco/ArduinoController/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]

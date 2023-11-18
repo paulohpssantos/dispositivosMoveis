@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/paulinho/AndroidStudioProjects/ArduinoControler_braco/ArduinoController/build/intermediates/res/merged/debug/xml/device_filter.xml",
+        "source": "/Users/paulinho/AndroidStudioProjects/ArduinoControler_braco/ArduinoController/src/main/res/xml/device_filter.xml"
+    },
+    {
+        "merged": "/Users/paulosantos/Desktop/Android 2/ArduinoController/build/intermediates/res/merged/debug/xml/device_filter.xml",
+        "source": "/Users/paulosantos/Desktop/Android 2/ArduinoController/src/main/res/xml/device_filter.xml"
+    },
+    {
+        "merged": "/Users/paulosantos/AndroidStudioProjects/ArduinoControler_braco/ArduinoController/build/intermediates/res/merged/debug/xml/device_filter.xml",
+        "source": "/Users/paulosantos/AndroidStudioProjects/ArduinoControler_braco/ArduinoController/src/main/res/xml/device_filter.xml"
+    }
+]

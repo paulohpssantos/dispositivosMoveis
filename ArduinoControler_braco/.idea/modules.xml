@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArduinoControler_braco.iml" filepath="$PROJECT_DIR$/ArduinoControler_braco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ArduinoController/ArduinoControler_braco.ArduinoController.iml" filepath="$PROJECT_DIR$/.idea/modules/ArduinoController/ArduinoControler_braco.ArduinoController.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ArduinoController/ArduinoControler_braco.ArduinoController.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/ArduinoController/ArduinoControler_braco.ArduinoController.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ArduinoController/ArduinoControler_braco.ArduinoController.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ArduinoController/ArduinoControler_braco.ArduinoController.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ArduinoController/ArduinoControler_braco.ArduinoController.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/ArduinoController/ArduinoControler_braco.ArduinoController.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/usbSerialForAndroid/ArduinoControler_braco.usbSerialForAndroid.iml" filepath="$PROJECT_DIR$/.idea/modules/usbSerialForAndroid/ArduinoControler_braco.usbSerialForAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/usbSerialForAndroid/ArduinoControler_braco.usbSerialForAndroid.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/usbSerialForAndroid/ArduinoControler_braco.usbSerialForAndroid.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/usbSerialForAndroid/ArduinoControler_braco.usbSerialForAndroid.main.iml" filepath="$PROJECT_DIR$/.idea/modules/usbSerialForAndroid/ArduinoControler_braco.usbSerialForAndroid.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/usbSerialForAndroid/ArduinoControler_braco.usbSerialForAndroid.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/usbSerialForAndroid/ArduinoControler_braco.usbSerialForAndroid.unitTest.iml" />
+    </modules>
+  </component>
+</project>

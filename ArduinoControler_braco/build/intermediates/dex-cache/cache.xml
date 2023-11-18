@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/paulinho/AndroidStudioProjects/ArduinoControler_braco/ArduinoController/libs/android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="33b27a8d2a5b87e6eb6c60e87a5374ffbfeacc3a">
+        <dex dex="/Users/paulinho/AndroidStudioProjects/ArduinoControler_braco/ArduinoController/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v4_d943449c7fbefd8d69f851dd9295dad4cba249ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paulinho/AndroidStudioProjects/ArduinoControler_braco/ArduinoController/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="/Users/paulinho/AndroidStudioProjects/ArduinoControler_braco/ArduinoController/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6656186987fb4e711c83ad5db7be44a1904f1f2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paulinho/AndroidStudioProjects/ArduinoControler_braco/ArduinoController/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85a83b459f8082f80eef82c4640b3ac477a8421e">
+        <dex dex="/Users/paulinho/AndroidStudioProjects/ArduinoControler_braco/ArduinoController/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7807336cf4d620d2593fb8a5af2845679f8d3a34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paulinho/.android/build-cache/66ea69ad4891ecd53c0c9a8c74b651b21efcdd7b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a77138ac5211331e9579024c12bedabe3c835260">
+        <dex dex="/Users/paulinho/AndroidStudioProjects/ArduinoControler_braco/ArduinoController/build/intermediates/transforms/dex/debug/folders/1000/10/classes_841435d0ebe202968aed9510f931f0d4b4b7056e/classes.dex" />
+    </item>
+
+</items>
