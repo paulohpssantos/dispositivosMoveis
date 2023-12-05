@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="5"
+        android:padding="10dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="2.5"
+            android:orientation="vertical"
+            android:padding="10dp">
+
+            <ImageButton
+                android:id="@+id/btFrente"
+                android:layout_width="350dp"
+                android:layout_height="0dp"
+                android:layout_centerVertical="true"
+                android:layout_gravity="center"
+                android:layout_marginBottom="10dp"
+                android:layout_weight="1"
+                android:background="@android:color/holo_green_dark"
+                android:src="@mipmap/ic_up" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/btEsquerda"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="10dp"
+                    android:layout_weight="1"
+                    android:background="@android:color/holo_purple"
+                    android:src="@mipmap/ic_left"
+                    android:text="teste de touch" />
+
+                <ImageButton
+                    android:id="@+id/btDireita"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="10dp"
+                    android:layout_weight="1"
+                    android:background="@android:color/holo_purple"
+                    android:src="@mipmap/ic_right"
+                    android:text="teste de touch" />
+
+
+            </LinearLayout>
+
+            <ImageButton
+                android:id="@+id/btTras"
+                android:layout_width="350dp"
+                android:layout_height="0dp"
+                android:layout_centerVertical="true"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:layout_weight="1"
+                android:background="@android:color/holo_green_dark"
+                android:src="@mipmap/ic_down"
+                android:text="teste de touch" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="GARRA"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:layout_gravity="center"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+            android:visibility="gone">
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:text="ABRIR"
+                android:textColor="@android:color/white"
+                android:textStyle="bold"
+                android:textSize="15dp"
+                android:layout_margin="10dp"
+                android:background="@android:color/holo_blue_dark"
+                android:layout_weight="1"
+                android:layout_centerVertical="true"
+                android:id="@+id/btAbrir"/>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:text="FECHAR"
+                android:textColor="@android:color/white"
+                android:textStyle="bold"
+                android:textSize="15dp"
+                android:layout_margin="10dp"
+                android:background="@android:color/holo_blue_dark"
+                android:layout_weight="1"
+                android:layout_centerVertical="true"
+                android:id="@+id/btFechar"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_margin="20dp"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <!--<TextView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="BRAÇO ESQUERDO"-->
+            <!--android:gravity="center"-->
+            <!--android:textSize="20dp"-->
+            <!--android:textStyle="bold"-->
+            <!--android:layout_gravity="center"/>-->
+
+            <ImageButton
+                android:layout_width="200dp"
+                android:layout_height="0dp"
+                android:layout_gravity="center"
+                android:src="@mipmap/ic_up"
+                android:layout_margin="10dp"
+                android:background="@android:color/holo_red_dark"
+                android:layout_weight="1"
+                android:layout_centerVertical="true"
+                android:id="@+id/btCima"
+                android:text="teste de touch"/>
+
+            <ImageButton
+                android:layout_width="200dp"
+                android:layout_height="0dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:layout_margin="10dp"
+                android:src="@mipmap/ic_down"
+                android:background="@android:color/holo_red_dark"
+                android:layout_centerVertical="true"
+                android:id="@+id/btBaixo"
+                android:text="teste de touch"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+    <!--<LinearLayout-->
+    <!--android:layout_width="0dp"-->
+    <!--android:layout_weight="1"-->
+    <!--android:layout_margin="20dp"-->
+    <!--android:layout_height="match_parent"-->
+    <!--android:orientation="vertical">-->
+
+    <!--<LinearLayout-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent"-->
+    <!--android:orientation="vertical">-->
+
+    <!--<TextView-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="BRAÇO DIREITO"-->
+    <!--android:gravity="center"-->
+    <!--android:textSize="20dp"-->
+    <!--android:textStyle="bold"-->
+    <!--android:layout_gravity="center"/>-->
+
+    <!--<ImageButton-->
+    <!--android:layout_width="200dp"-->
+    <!--android:layout_height="0dp"-->
+    <!--android:layout_gravity="center"-->
+    <!--android:src="@mipmap/ic_up"-->
+    <!--android:layout_margin="10dp"-->
+    <!--android:background="@android:color/holo_red_dark"-->
+    <!--android:layout_weight="1"-->
+    <!--android:layout_centerVertical="true"-->
+    <!--android:id="@+id/btCima1"-->
+    <!--android:text="teste de touch"/>-->
+
+
+
+    <!--<ImageButton-->
+    <!--android:layout_width="200dp"-->
+    <!--android:layout_height="0dp"-->
+    <!--android:layout_gravity="center"-->
+    <!--android:layout_weight="1"-->
+    <!--android:layout_margin="10dp"-->
+    <!--android:src="@mipmap/ic_down"-->
+    <!--android:background="@android:color/holo_red_dark"-->
+    <!--android:layout_centerVertical="true"-->
+    <!--android:id="@+id/btBaixo1"-->
+    <!--android:text="teste de touch"/>-->
+
+    <!--</LinearLayout>-->
+
+    <!--</LinearLayout>-->
+
+</LinearLayout>
